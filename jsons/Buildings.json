@@ -3,19 +3,7 @@
 		"name": "illegals be gone",
 		"uniqueTo": "USA",
 		"cost": 300,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
+		"happiness": 3,
 		"requiredTech": "Mobile Tactics"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
 	}
 ]
